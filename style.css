@@ -1,0 +1,102 @@
+h1{
+	color: forestgreen;
+}
+
+div.header{
+	text-align: center;
+}
+
+body{
+	background-color: mintcream;
+	font-family: sans-serif;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	position: relative;
+	top: 0;
+	background-color: mediumseagreen;
+}
+
+li{
+	float: left;	
+}
+
+li a{
+	color: white;
+	padding: 20px;
+	text-align: center;
+	float: left;
+}
+
+li a:hover{
+	color: black;
+	background-color: floralwhite;
+}
+
+img.social:hover{
+	opacity: .50;
+}
+
+div.section{
+	display: block;
+	background-color: palegreen;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	border: 5px;
+	border-color: darkseagreen;
+	border-style: solid;
+}
+
+div.aboutme{
+	display: block;
+	background-color: palegreen;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align:center;
+	border: 5px;
+	border-color: darkseagreen;
+	border-style: solid;
+}
+
+div.other{
+	display: block;
+	background-color: palegreen;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	border: 5px;
+	border-color: darkseagreen;
+	border-style: solid;
+}
+
+div.index{
+	text-align: center;
+}
+
+div.poster{
+	display: block;
+	background-color: palegreen;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	border: 5px;
+	border-color: darkseagreen;
+	border-style: solid;
+}
+
+
+div.media{
+	display: block;
+	background-color: palegreen;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	border: 5px;
+	border-color: darkseagreen;
+	border-style: solid;
+}
